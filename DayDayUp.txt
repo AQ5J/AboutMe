@@ -1,0 +1,118 @@
+﻿- Programming  1
+  - RegularExpression 1
+  - 数据库 1
+    - 关系数据库 1
+      - SQlite 1
+      - MySQL 0
+    - noSQL  0
+  - 编辑器 1
+    - Vim  1
+  - 版本控制 0
+    - Git 0.01
+  - 数据描述语言
+    - XML
+    - YAML
+    - JSON
+    - Protocol Buffers
+
+- WebDevelopment 1
+  - 网站开发工具 0
+    - wordpress
+    - Drupal
+  - 前端 2
+    - HTML  2
+      - HTML5 0
+    - CSS   1
+    - Javascript  1
+  - 后端框架  0
+    - php 0
+    - RoR 0
+    - python框架 0
+      - Django
+    - REBOL Cheyenne 0
+  - 服务器 0 
+    - Apache  0
+
+- GUI开发 1
+  - REBOL VID 2
+  - RubyShoes 0
+
+
+- Programming Languages 2
+  - REBOL2 3
+  - REBOL3 2
+  - python 2 
+  - ruby  1
+  - php   0
+
+- 操作系统
+  - Windows 50
+  - Linux 5
+    - Ubuntu 5
+  - Unix 0
+  - MacOS 0 
+- 软件使用
+  - Office 1
+    - MS Office 1
+    - OpenOffice  0
+  - 图表
+    - Dia 0
+  - 文件图标制作
+    - icoFX 0
+  - 位图处理 1
+    - Photoshop 1
+    - GIMP 0
+  - 矢量图 0
+    - Inkscape 0
+  - 3D制图 0
+    - Blender 0
+  - 音频视频处理 0
+  - 浏览器使用
+    - Firefox 20
+      - Vimperator 5
+    - Chrome 2
+    - Opera 1
+    - Safari 0
+    - seaMonkey 1
+  - IM使用
+    - QQ  20
+    - GTalk 2
+    - UC  5    
+    - IRC 1
+  - telnet
+    - Putty 1
+  - 下载工具
+    - wget
+  - 网络硬盘
+    - Dropbox 2
+
+- 历史
+  - 中国古代史 5
+    - 先秦 10
+    - 汉 2
+    - 唐 1
+    - 宋 1
+    - 元 1
+    - 明 1
+    - 请 1
+  - 世界史  1
+
+- 地理 2
+  - 中国地理 2
+  - 世界地理 2
+
+- 外语
+  - 英语 10
+
+- 娱乐
+  - 灯谜 90
+    - 抢猜 95
+      - 网上 98
+      - 现场 90
+    - 笔猜 80
+    - 制谜 90
+      - 典故 90
+      - 离合 75
+    - 品谜 90 
+
+- 经济 80+
